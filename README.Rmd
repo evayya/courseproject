@@ -23,16 +23,18 @@ Mean and standard deviation for each measurement (79 variables total) were extra
 
 The dataset includes the following files:
 =========================================
-
 - 'README.Rmd'
 - 'CodeBook.Rmd': Shows information about the variables used on the feature vector (features_info.txt).
-- 'features.txt': List of all features.
-- 'activity_labels.txt': Links the class labels with their activity name.
-- 'X_train.txt': Training set.
-- 'y_train.txt': Training labels.
-- 'X_test.txt': Test set.
-- 'y_test.txt': Test labels.
+- 'run_analysis.R': Creates tidy data from select variables
 - 'datatidy.csv': Tidy data set
+
+- 'data/features.txt': List of all features.
+- 'data/activity_labels.txt': Links the class labels with their activity name.
+- 'data/X_train.txt': Training set.
+- 'data/y_train.txt': Training labels.
+- 'data/X_test.txt': Test set.
+- 'data/y_test.txt': Test labels.
+
 
 
 
