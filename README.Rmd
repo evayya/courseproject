@@ -18,7 +18,7 @@ Training sets were merged by column binding subject_train.txt ("subject"), X_tra
 5 STANDING
 6 LAYING
 
-Mean and standard deviation for each measurement (79 variables total) were extracted and used for subsequent analyses. Final tidy data set (datatidy.csv) contains the average of each variable for each activity and each subject.
+Mean and standard deviation for each measurement (79 variables total) were extracted and used for subsequent analyses. Final tidy data set (datatidy.txt) contains the average of each variable for each activity and each subject.
 
 
 The dataset includes the following files:
@@ -26,7 +26,7 @@ The dataset includes the following files:
 - 'README.Rmd'
 - 'CodeBook.Rmd': Shows information about the variables used on the feature vector (features_info.txt).
 - 'run_analysis.R': Creates tidy data from select variables
-- 'datatidy.csv': Tidy data set
+- 'datatidy.txt': Tidy data set
 
 - 'data/features.txt': List of all features.
 - 'data/activity_labels.txt': Links the class labels with their activity name.

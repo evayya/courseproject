@@ -5,7 +5,7 @@ date: "12/12/2017"
 output: html_document
 ---
 
-Final tidy data set (datatidy.csv) contains the average of each variable for each activity and each subject obtained by melt() and dcast() functions. Variables are limited to those that contain the word "mean" or "std":
+Final tidy data set (datatidy.txt) contains the average of each variable for each activity and each subject obtained by melt() and dcast() functions. Variables are limited to those that contain the word "mean" or "std":
 
 mean() Mean value or std() Standard deviation from following signals:
 tBodyAcc-XYZ
